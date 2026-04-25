@@ -1,0 +1,7 @@
+{
+  "name": "HomeTiffin - Hyper-local Home Food",
+  "description": "A hyper-local food delivery platform connecting students and bachelors with home-cooked meals from local home cooks. Features include daily menus, subscriptions, and an intuitive dashboard for cooks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
